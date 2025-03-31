@@ -1,4 +1,3 @@
-# <H1> ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-``` Java
-System.out.println("Hello!");
-```
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce Myself to the World
